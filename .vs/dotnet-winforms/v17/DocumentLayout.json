@@ -9,26 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|f:\\github\\dotnet-winforms\\dotnet-winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|solutionrelative:dotnet-winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|f:\\github\\dotnet-winforms\\dotnet-winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|solutionrelative:dotnet-winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|f:\\github\\dotnet-winforms\\dotnet-winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|solutionrelative:dotnet-winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|f:\\github\\dotnet-winforms\\dotnet-winforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|solutionrelative:dotnet-winforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|f:\\github\\dotnet-winforms\\dotnet-winforms\\popupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|solutionrelative:dotnet-winforms\\popupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|f:\\github\\dotnet-winforms\\dotnet-winforms\\popupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|solutionrelative:dotnet-winforms\\popupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,54 +30,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\Program.cs",
-              "RelativeDocumentMoniker": "dotnet-winforms\\Program.cs",
-              "ToolTip": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\Program.cs",
-              "RelativeToolTip": "dotnet-winforms\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T06:02:28.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PopupForm.Designer.cs",
-              "DocumentMoniker": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\PopupForm.Designer.cs",
-              "RelativeDocumentMoniker": "dotnet-winforms\\PopupForm.Designer.cs",
-              "ToolTip": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\PopupForm.Designer.cs",
-              "RelativeToolTip": "dotnet-winforms\\PopupForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T06:01:53.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PopupForm.cs",
               "DocumentMoniker": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\PopupForm.cs",
               "RelativeDocumentMoniker": "dotnet-winforms\\PopupForm.cs",
               "ToolTip": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\PopupForm.cs",
               "RelativeToolTip": "dotnet-winforms\\PopupForm.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T06:01:43.534Z",
+              "WhenOpened": "2024-12-15T07:26:46.312Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PopupForm.cs [Design]",
-              "DocumentMoniker": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\PopupForm.cs",
-              "RelativeDocumentMoniker": "dotnet-winforms\\PopupForm.cs",
-              "ToolTip": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\PopupForm.cs [Design]",
-              "RelativeToolTip": "dotnet-winforms\\PopupForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T06:01:33.969Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -107,35 +49,9 @@
               "RelativeDocumentMoniker": "dotnet-winforms\\Form1.cs",
               "ToolTip": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\Form1.cs",
               "RelativeToolTip": "dotnet-winforms\\Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T06:00:25.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "dotnet-winforms\\Form1.Designer.cs",
-              "ToolTip": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\Form1.Designer.cs",
-              "RelativeToolTip": "dotnet-winforms\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T06:00:10.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\Form1.cs",
-              "RelativeDocumentMoniker": "dotnet-winforms\\Form1.cs",
-              "ToolTip": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\Form1.cs [Design]",
-              "RelativeToolTip": "dotnet-winforms\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T06:00:01.799Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-15T07:22:42.784Z"
             }
           ]
         }
