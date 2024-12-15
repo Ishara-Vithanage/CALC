@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|f:\\github\\dotnet-winforms\\dotnet-winforms\\dotnet-winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A683E368-76D7-4ECB-913B-FF04B08F3758}|dotnet-winforms\\dotnet-winforms.csproj|solutionrelative:dotnet-winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\dotnet-winforms\\Form1.cs",
+              "RelativeDocumentMoniker": "dotnet-winforms\\Form1.cs",
+              "ToolTip": "F:\\Github\\dotnet-winforms\\dotnet-winforms\\dotnet-winforms\\Form1.cs [Design]",
+              "RelativeToolTip": "dotnet-winforms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T05:19:53.617Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
