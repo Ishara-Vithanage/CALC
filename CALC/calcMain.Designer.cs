@@ -82,6 +82,7 @@
             // 
             // equalButton
             // 
+            equalButton.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             equalButton.Location = new Point(246, 299);
             equalButton.Name = "equalButton";
             equalButton.Size = new Size(75, 64);
@@ -92,6 +93,7 @@
             // 
             // plusButton
             // 
+            plusButton.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             plusButton.Location = new Point(246, 229);
             plusButton.Name = "plusButton";
             plusButton.Size = new Size(75, 64);
@@ -102,6 +104,7 @@
             // 
             // minusButton
             // 
+            minusButton.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             minusButton.Location = new Point(246, 159);
             minusButton.Name = "minusButton";
             minusButton.Size = new Size(75, 64);
@@ -112,6 +115,7 @@
             // 
             // subsButton
             // 
+            subsButton.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             subsButton.Location = new Point(246, 89);
             subsButton.Name = "subsButton";
             subsButton.Size = new Size(75, 64);
@@ -122,6 +126,7 @@
             // 
             // divButon
             // 
+            divButon.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             divButon.Location = new Point(246, 19);
             divButon.Name = "divButon";
             divButon.Size = new Size(75, 64);
@@ -132,6 +137,7 @@
             // 
             // dotButton
             // 
+            dotButton.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             dotButton.Location = new Point(165, 299);
             dotButton.Name = "dotButton";
             dotButton.Size = new Size(75, 64);
@@ -141,6 +147,7 @@
             // 
             // threeButton
             // 
+            threeButton.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             threeButton.Location = new Point(165, 229);
             threeButton.Name = "threeButton";
             threeButton.Size = new Size(75, 64);
@@ -151,6 +158,7 @@
             // 
             // sixButton
             // 
+            sixButton.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             sixButton.Location = new Point(165, 159);
             sixButton.Name = "sixButton";
             sixButton.Size = new Size(75, 64);
@@ -161,6 +169,7 @@
             // 
             // nineButton
             // 
+            nineButton.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             nineButton.Location = new Point(165, 89);
             nineButton.Name = "nineButton";
             nineButton.Size = new Size(75, 64);
@@ -171,6 +180,7 @@
             // 
             // percentButton
             // 
+            percentButton.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             percentButton.Location = new Point(165, 19);
             percentButton.Name = "percentButton";
             percentButton.Size = new Size(75, 64);
@@ -180,6 +190,7 @@
             // 
             // twoButton
             // 
+            twoButton.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             twoButton.Location = new Point(84, 229);
             twoButton.Name = "twoButton";
             twoButton.Size = new Size(75, 64);
@@ -190,6 +201,7 @@
             // 
             // fiveButton
             // 
+            fiveButton.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             fiveButton.Location = new Point(84, 159);
             fiveButton.Name = "fiveButton";
             fiveButton.Size = new Size(75, 64);
@@ -200,6 +212,7 @@
             // 
             // eightButton
             // 
+            eightButton.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             eightButton.Location = new Point(84, 89);
             eightButton.Name = "eightButton";
             eightButton.Size = new Size(75, 64);
@@ -210,6 +223,7 @@
             // 
             // button10
             // 
+            button10.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             button10.Location = new Point(84, 19);
             button10.Name = "button10";
             button10.Size = new Size(75, 64);
@@ -219,6 +233,7 @@
             // 
             // zeroButton
             // 
+            zeroButton.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             zeroButton.Location = new Point(3, 299);
             zeroButton.Name = "zeroButton";
             zeroButton.Size = new Size(156, 64);
@@ -229,6 +244,7 @@
             // 
             // oneButton
             // 
+            oneButton.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             oneButton.Location = new Point(3, 229);
             oneButton.Name = "oneButton";
             oneButton.Size = new Size(75, 64);
@@ -239,6 +255,7 @@
             // 
             // fourButton
             // 
+            fourButton.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             fourButton.Location = new Point(3, 159);
             fourButton.Name = "fourButton";
             fourButton.Size = new Size(75, 64);
@@ -249,6 +266,7 @@
             // 
             // sevenButton
             // 
+            sevenButton.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             sevenButton.Location = new Point(3, 89);
             sevenButton.Name = "sevenButton";
             sevenButton.Size = new Size(75, 64);
@@ -259,11 +277,12 @@
             // 
             // clearButton
             // 
+            clearButton.Font = new Font("Segoe UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             clearButton.Location = new Point(3, 19);
             clearButton.Name = "clearButton";
             clearButton.Size = new Size(75, 64);
             clearButton.TabIndex = 0;
-            clearButton.Text = "Clear";
+            clearButton.Text = "C";
             clearButton.UseVisualStyleBackColor = true;
             clearButton.Click += ClearClick;
             // 
