@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\ISHARAH\\Github\\CALC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF71BD51-082A-40E5-AC01-A259B4D441D6}|CALC\\CALC.csproj|h:\\isharah\\github\\calc\\calc\\calcmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF71BD51-082A-40E5-AC01-A259B4D441D6}|CALC\\CALC.csproj|solutionrelative:calc\\calcmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF71BD51-082A-40E5-AC01-A259B4D441D6}|CALC\\CALC.csproj|h:\\isharah\\github\\calc\\calc\\calcmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF71BD51-082A-40E5-AC01-A259B4D441D6}|CALC\\CALC.csproj|solutionrelative:calc\\calcmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calcMain.cs [Design]",
+              "DocumentMoniker": "H:\\ISHARAH\\Github\\CALC\\CALC\\calcMain.cs",
+              "RelativeDocumentMoniker": "CALC\\calcMain.cs",
+              "ToolTip": "H:\\ISHARAH\\Github\\CALC\\CALC\\calcMain.cs [Design]",
+              "RelativeToolTip": "CALC\\calcMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:16:53.028Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calcMain.cs",
+              "DocumentMoniker": "H:\\ISHARAH\\Github\\CALC\\CALC\\calcMain.cs",
+              "RelativeDocumentMoniker": "CALC\\calcMain.cs",
+              "ToolTip": "H:\\ISHARAH\\Github\\CALC\\CALC\\calcMain.cs",
+              "RelativeToolTip": "CALC\\calcMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T09:59:38.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
