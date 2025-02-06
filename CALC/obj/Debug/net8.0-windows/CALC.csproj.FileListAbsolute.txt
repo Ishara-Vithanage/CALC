@@ -1,0 +1,17 @@
+H:\ISHARAH\Github\CALC\CALC\bin\Debug\net8.0-windows\CALC.exe
+H:\ISHARAH\Github\CALC\CALC\bin\Debug\net8.0-windows\CALC.deps.json
+H:\ISHARAH\Github\CALC\CALC\bin\Debug\net8.0-windows\CALC.runtimeconfig.json
+H:\ISHARAH\Github\CALC\CALC\bin\Debug\net8.0-windows\CALC.dll
+H:\ISHARAH\Github\CALC\CALC\bin\Debug\net8.0-windows\CALC.pdb
+H:\ISHARAH\Github\CALC\CALC\obj\Debug\net8.0-windows\CALC.calcMain.resources
+H:\ISHARAH\Github\CALC\CALC\obj\Debug\net8.0-windows\CALC.csproj.GenerateResource.cache
+H:\ISHARAH\Github\CALC\CALC\obj\Debug\net8.0-windows\CALC.GeneratedMSBuildEditorConfig.editorconfig
+H:\ISHARAH\Github\CALC\CALC\obj\Debug\net8.0-windows\CALC.AssemblyInfoInputs.cache
+H:\ISHARAH\Github\CALC\CALC\obj\Debug\net8.0-windows\CALC.AssemblyInfo.cs
+H:\ISHARAH\Github\CALC\CALC\obj\Debug\net8.0-windows\CALC.csproj.CoreCompileInputs.cache
+H:\ISHARAH\Github\CALC\CALC\obj\Debug\net8.0-windows\CALC.sourcelink.json
+H:\ISHARAH\Github\CALC\CALC\obj\Debug\net8.0-windows\CALC.dll
+H:\ISHARAH\Github\CALC\CALC\obj\Debug\net8.0-windows\refint\CALC.dll
+H:\ISHARAH\Github\CALC\CALC\obj\Debug\net8.0-windows\CALC.pdb
+H:\ISHARAH\Github\CALC\CALC\obj\Debug\net8.0-windows\CALC.genruntimeconfig.cache
+H:\ISHARAH\Github\CALC\CALC\obj\Debug\net8.0-windows\ref\CALC.dll
